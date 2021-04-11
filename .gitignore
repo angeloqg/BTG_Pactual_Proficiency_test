@@ -1,0 +1,11 @@
+# .NetCore Project
+bin
+obj
+
+# IDE - VSCode
+.vs
+.vscode
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
